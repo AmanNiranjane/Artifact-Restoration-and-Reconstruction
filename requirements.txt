@@ -1,0 +1,10 @@
+matplotlib
+scipy
+pillow
+numpy
+opencv-python
+easygui
+pyaml
+future
+scikit-image
+pyparsing
